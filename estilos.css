@@ -1,0 +1,44 @@
+h1{
+    font-family: 'Honk', system-ui;
+    text-align: center;
+    font-size: 5rem;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.wrapper{
+    display: grid;
+}
+
+.uno{
+    grid-column: 1;
+}
+
+.dos{
+    grid-column: 2;
+}
+
+.tres{
+    grid-column: 3;
+}
+
+.cuatro{
+    grid-column: 4;
+}
+
+.cinco{
+    grid-column: 5;
+}
+
+.seis{
+    grid-column: 6;
+}
+
+.imagen{
+    width: 180px; height: 150px;
+    border-style: groove;
+    border-color: black;
+}
